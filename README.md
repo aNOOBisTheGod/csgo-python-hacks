@@ -1,9 +1,9 @@
 # csgo-python-hacks
 
-clone this in empty folder
+1) clone this in empty folder
 
-install requirements.txt
+2) install requirements.txt
 
-run untitled.py file
+3) run untitled.py file
 
-enjoy the game)0))
+4) enjoy the game)0))
